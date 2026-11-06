@@ -1,5 +1,5 @@
-# semanticium
+# Semanticium
 
-The semanticium.com site: the project explained. Its pages are built by `engine` (`sites/semanticium`). Site: semanticium.com (GitHub Pages).
+The site semanticium.com: what Semanticium is and how it works.
 
-See ../PROJECT.md.
+https://semanticium.com
